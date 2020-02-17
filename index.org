@@ -6,7 +6,7 @@ Specifically, I'm interested in computer security and program synthesis.
 I currently work part-time as an operations intern at [[https://research-it.berkeley.edu/programs/berkeley-research-computing][Berkeley Research Computing]].
 Outside of school and work, I play the clarinet in the [[http://calband.berkeley.edu][Cal Band]] and wind ensemble!
 * Resume
-- [[./resume-2020.pdf][Nicolas Chan's 2020 Resume]]
+- [[./static/docs/resume-2020.pdf][Nicolas Chan's 2020 Resume]]
 * Highlighted Projects
 Most of my projects are listed on [[https://github.com/nicolaschan][github/nicolaschan]].
 Some projects date all the way back to high school.
@@ -22,4 +22,4 @@ Some projects date all the way back to high school.
 * Photo
 #+CAPTION: This is a picture of me falling off of a sled.
 #+ATTR_HTML: :width 50% :height 50%
-[[./img/IMG_7690-sm.jpg]]
+[[./static/img/IMG_7690-sm.jpg]]

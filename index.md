@@ -1,15 +1,15 @@
 
 # Table of Contents
 
-1.  [Introduction](#orgba37408)
-2.  [Resume](#orgdf81353)
-3.  [Highlighted Projects](#org30c420c)
-4.  [Contact and External Links](#org0a06d90)
-5.  [Photo](#org6546cb5)
+1.  [Introduction](#org415634c)
+2.  [Resume](#org5911dc9)
+3.  [Highlighted Projects](#org25fbdb8)
+4.  [Contact and External Links](#org4ba0b14)
+5.  [Photo](#org5c0c235)
 
 
 
-<a id="orgba37408"></a>
+<a id="org415634c"></a>
 
 # Introduction
 
@@ -20,14 +20,14 @@ I currently work part-time as an operations intern at [Berkeley Research Computi
 Outside of school and work, I play the clarinet in the [Cal Band](http://calband.berkeley.edu) and wind ensemble!
 
 
-<a id="orgdf81353"></a>
+<a id="org5911dc9"></a>
 
 # Resume
 
--   [Nicolas Chan's 2020 Resume](./resume-2020.pdf)
+-   [Nicolas Chan's 2020 Resume](./static/docs/resume-2020.pdf)
 
 
-<a id="org30c420c"></a>
+<a id="org25fbdb8"></a>
 
 # Highlighted Projects
 
@@ -41,7 +41,7 @@ Some projects date all the way back to high school.
 -   [mithril-selector](https://github.com/nicolaschan/mithril-selector)
 
 
-<a id="org0a06d90"></a>
+<a id="org4ba0b14"></a>
 
 # Contact and External Links
 
@@ -50,9 +50,9 @@ Some projects date all the way back to high school.
 -   GitHub: [github/nicolaschan](https://github.com/nicolaschan)
 
 
-<a id="org6546cb5"></a>
+<a id="org5c0c235"></a>
 
 # Photo
 
-![img](./img/IMG_7690-sm.jpg "This is a picture of me falling off of a sled.")
+![img](./static/img/IMG_7690-sm.jpg "This is a picture of me falling off of a sled.")
 
