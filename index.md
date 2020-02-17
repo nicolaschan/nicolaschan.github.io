@@ -1,33 +1,33 @@
 
 # Table of Contents
 
-1.  [Introduction](#org415634c)
-2.  [Resume](#org5911dc9)
-3.  [Highlighted Projects](#org25fbdb8)
-4.  [Contact and External Links](#org4ba0b14)
-5.  [Photo](#org5c0c235)
+1.  [Introduction](#org79e5524)
+2.  [Resume](#org62ba3c9)
+3.  [Highlighted Projects](#org017a16d)
+4.  [Contact and External Links](#orgb81cf00)
+5.  [Photo](#org485a9f9)
 
 
 
-<a id="org415634c"></a>
+<a id="org79e5524"></a>
 
 # Introduction
 
 Thanks for stopping by my corner of the internet!
-I'm currently a student at UC Berkeley studying computer science and math.
+I'm a student from the Bay Area studying computer science and math at UC Berkeley.
 Specifically, I'm interested in computer security and program synthesis.
 I currently work part-time as an operations intern at [Berkeley Research Computing](https://research-it.berkeley.edu/programs/berkeley-research-computing).
 Outside of school and work, I play the clarinet in the [Cal Band](http://calband.berkeley.edu) and wind ensemble!
 
 
-<a id="org5911dc9"></a>
+<a id="org62ba3c9"></a>
 
 # Resume
 
 -   [Nicolas Chan's 2020 Resume](./static/docs/resume-2020.pdf)
 
 
-<a id="org25fbdb8"></a>
+<a id="org017a16d"></a>
 
 # Highlighted Projects
 
@@ -41,7 +41,7 @@ Some projects date all the way back to high school.
 -   [mithril-selector](https://github.com/nicolaschan/mithril-selector)
 
 
-<a id="org4ba0b14"></a>
+<a id="orgb81cf00"></a>
 
 # Contact and External Links
 
@@ -50,7 +50,7 @@ Some projects date all the way back to high school.
 -   GitHub: [github/nicolaschan](https://github.com/nicolaschan)
 
 
-<a id="org5c0c235"></a>
+<a id="org485a9f9"></a>
 
 # Photo
 

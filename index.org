@@ -1,7 +1,7 @@
 #+TITLE: Nicolas Chan
 * Introduction
 Thanks for stopping by my corner of the internet!
-I'm currently a student at UC Berkeley studying computer science and math.
+I'm a student from the Bay Area studying computer science and math at UC Berkeley.
 Specifically, I'm interested in computer security and program synthesis.
 I currently work part-time as an operations intern at [[https://research-it.berkeley.edu/programs/berkeley-research-computing][Berkeley Research Computing]].
 Outside of school and work, I play the clarinet in the [[http://calband.berkeley.edu][Cal Band]] and wind ensemble!
