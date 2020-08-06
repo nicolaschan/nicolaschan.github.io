@@ -5,7 +5,6 @@
 2.  [Resume](#org62ba3c9)
 3.  [Highlighted Projects](#org017a16d)
 4.  [Contact and External Links](#orgb81cf00)
-5.  [Photo](#org485a9f9)
 
 
 
@@ -51,8 +50,4 @@ Some projects date all the way back to high school.
 
 
 <a id="org485a9f9"></a>
-
-# Photo
-
-![img](./static/img/IMG_7690-sm.jpg "This is a picture of me falling off of a sled.")
 
