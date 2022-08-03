@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-1.  [Introduction](#org40df344)
-2.  [Resume](#org0ef993b)
-3.  [Highlighted Projects](#org097631d)
-4.  [Contact and External Links](#org85b97f5)
+1.  [Introduction](#org1185634)
+2.  [Resume](#org4c44fe4)
+3.  [Highlighted Projects](#orge0cebac)
+4.  [Contact and External Links](#orgf98938b)
 
 
 
-<a id="org40df344"></a>
+<a id="org1185634"></a>
 
 # Introduction
 
@@ -19,14 +19,14 @@ I&rsquo;m currently a software engineer at Microsoft in San Francisco where I wo
 Outside of work, I enjoy playing piano and hobby coding on GitHub.
 
 
-<a id="org0ef993b"></a>
+<a id="org4c44fe4"></a>
 
 # Resume
 
--   [[./static/docs/resume-2022.pdf][Nicolas Chan&rsquo;s 2022 Resume]
+-   [Nicolas Chan&rsquo;s 2022 Resume](./static/docs/resume-2022.pdf)
 
 
-<a id="org097631d"></a>
+<a id="orge0cebac"></a>
 
 # Highlighted Projects
 
@@ -40,7 +40,7 @@ Disclaimer: Some projects date all the way back to high school.
 -   [mithril-selector](https://github.com/nicolaschan/mithril-selector)
 
 
-<a id="org85b97f5"></a>
+<a id="orgf98938b"></a>
 
 # Contact and External Links
 

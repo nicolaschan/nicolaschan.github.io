@@ -7,7 +7,7 @@ I'm currently a software engineer at Microsoft in San Francisco where I work on 
 Outside of work, I enjoy playing piano and hobby coding on GitHub.
 
 * Resume
-- [[./static/docs/resume-2022.pdf][Nicolas Chan's 2022 Resume]
+- [[./static/docs/resume-2022.pdf][Nicolas Chan's 2022 Resume]]
 
 * Highlighted Projects
 Most of my projects are listed on [[https://github.com/nicolaschan][github/nicolaschan]].
